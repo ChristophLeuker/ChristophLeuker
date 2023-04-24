@@ -3,7 +3,7 @@
 
 - My hometown is Krefeld, Germany.
 
-- My hobbies are football ![HSV](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1280px-Hamburger_SV_logo.svg.png) and darts
+- My hobbies are football <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/1280px-Hamburger_SV_logo.svg.png" width="20px" height="15px"> and darts <img src="https://cdn.webshopapp.com/shops/250275/files/384801552/2000x2000x2/winmau-winmau-blade-6-dual-core-profi-dartboard.jpg" width="20px" height="20px">
 
 - 💬 You can get in touch with me by e-mail at [cleuker87@gmail.com](mailto:cleuker87@gmail.com)
 
