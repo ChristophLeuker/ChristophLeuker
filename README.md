@@ -1,4 +1,4 @@
-# Welcome and enjoy my Profile!
+# Welcome and enjoy my profile!
 - I´m Christoph but most people just call me Chris. I´m new to the coding game and a _NeueFische_ Student.
 
 - My hometown is Krefeld, Germany.
