@@ -7,6 +7,6 @@
 
 - 💬 You can get in touch with me by e-mail at [cleuker87@gmail.com](mailto:cleuker87@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ChristophLeuker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChristophLeuker&theme=tokyonight&border_radius=12)](https://git.io/streak-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ChristophLeuker}.${ChristophLeuker}&left_color=blue&right_color=red)
