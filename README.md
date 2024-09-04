@@ -1,5 +1,5 @@
 # Welcome and enjoy my profile!
-- I´m Christoph but most people just call me Chris. I´m IT Associate and want to lern more about automation with ansible.
+- I´m Christoph but most people just call me Chris. I´m an IT Associate and want to lern more about automation with ansible.
 
 - My hometown is Krefeld, Germany. 🏡
 
